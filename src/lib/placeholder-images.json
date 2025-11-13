@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background-van",
+      "description": "Uma van escolar amarela com crianças felizes olhando pela janela.",
+      "imageUrl": "https://images.unsplash.com/photo-1541542919104-d4cf3c880860?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzaG9vbCUyMHZhbnxlbnwwfHx8fDE3MjE4MzQ5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school van"
+    },
+    {
+      "id": "testimonial-avatar-1",
+      "description": "Avatar para o primeiro depoimento, uma mãe sorrindo.",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjMwMzQ3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "testimonial-avatar-2",
+      "description": "Avatar para o segundo depoimento, um homem de negócios.",
+      "imageUrl": "https://images.unsplash.com/photo-1624797432677-6f803a98acb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYW4lMjBidXNpbmVzc3xlbnwwfHx8fDE3NjMwNjIzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man business"
+    },
+    {
+      "id": "testimonial-avatar-3",
+      "description": "Avatar para o terceiro depoimento, uma professora sorrindo.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYyOTc1Nzg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teacher smiling"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "Imagem para um post de blog sobre segurança no transporte escolar, mostrando um cinto de segurança.",
+      "imageUrl": "https://images.unsplash.com/photo-1588631575383-d3dee847bdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZWF0JTIwYmVsdHxlbnwwfHx8fDE3MjE4MzUwODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "seat belt"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "Imagem para um post de blog sobre destinos turísticos, mostrando uma praia.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723a996f329?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWFjaCUyMHN1bnNldHxlbnwwfHx8fDE3MjE4MzUxMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach sunset"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "Imagem para um post de blog sobre atividades extracurriculares, mostrando crianças em um museu.",
+      "imageUrl": "https://images.unsplash.com/photo-1582971691238-a25a81e28935?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMG11c2V1bXxlbnwwfHx8fDE3MjE4MzUxMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "children museum"
+    }
+  ]
+}
